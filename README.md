@@ -6,3 +6,4 @@ The Brief:
 2. Find signicficant days in data.
 3. What are the trends?
 4. What's the seasonality?
+
